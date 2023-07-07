@@ -1,0 +1,45 @@
+[
+  {
+    "name": "Brad",
+    "age": 25,
+    "takenBooks": [
+      "На Западном фронте без перемен",
+      "1984"
+    ],
+    "readsNow": ["1984"]
+  },
+
+  {
+    "name": "Mark",
+    "age": 30,
+    "takenBooks": [
+      "Искра жизни",
+      "Mission possible: Happy Life Technology"
+    ],
+    "readsNow": [
+      "1984",
+      "Mission possible: Happy Life Technology"
+    ]
+  },
+
+  {
+    "name": "Ethan",
+    "age": 54,
+    "takenBooks": [
+      "Искра жизни",
+      "Цветы для Элджернона"
+    ],
+    "readsNow": []
+  },
+
+  {
+    "name": "Bula",
+    "age": 18,
+    "takenBooks": [
+      "Mission possible: Happy Life Technology"
+    ],
+    "readsNow": [
+      "Mission possible: Happy Life Technology"
+    ]
+  }
+]

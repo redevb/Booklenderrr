@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "name": "На Западном фронте без перемен",
+    "author": "Ремарк Э. М",
+    "year": 1929,
+    "isCoverSolid": true,
+    "genre": "роман",
+    "imgName": "Front.jpg",
+    "description": "Говоря о Первой мировой войне, всегда вспоминают одно произведение Эриха Марии Ремарка \"На Западном фронте без перемен\". Это рассказ о немецких мальчишках, которые под действием патриотической пропаганды идут на войну, не зная о том, что впереди их ждет не слава героев, а инвалидность и смерть... Каждый день войны уносит жизни чьих-то отцов, сыновей, а газеты тем временем бесстрастно сообщают: \"На Западном фронте без перемен...\" Эта книга - не обвинение, не исповедь. Это попытка рассказать о поколении, которое погубила война, о тех, кто стал ее жертвой, даже если сумел спастись с снарядов и укрыться от пули."
+  },
+
+  {
+    "id": "3",
+    "name": "1984",
+    "author": "Джордж Оруэлл",
+    "year": 1949,
+    "isCoverSolid": false,
+    "genre": "роман-антиутопия, социальная фантастика",
+    "imgName": "1984.jpg",
+    "description": "роман-антиутопия Джорджа Оруэлла, изданный в 1949 году. Как отмечает членкор РАН М. Ф. Черныш, это самое главное и последнее произведение писателя"
+  },
+
+  {
+    "id": "2",
+    "name": "Искра жизни",
+    "author": "Ремарк Э. М.",
+    "year": 1952,
+    "isCoverSolid": true,
+    "genre": "Всемирная классика",
+    "imgName": "Spark of Life.jpg",
+    "description": "Конец войны. Германия. Концлагерь вблизи вымышленного города Меллерн. Большинство пленников отказываются от надежды когда-нибудь оказаться на свободе. Но есть те, кто еще верит в спасение. И это дает им силы жить и мечтать о будущем. Ведь пока в них теплится искра жизни, они чувствуют себя людьми..."
+  },
+
+  {
+    "id": "4",
+    "name": "Цветы для Элджернона",
+    "author": "Дэниел Киз",
+    "year": 2012,
+    "isCoverSolid": true,
+    "genre": "fantasy",
+    "imgName": "Flowers for Algernon.jpg",
+    "description": "Сорок лет назад это считалось фантастикой. Сорок лет назад это читалось как фантастика. Исследующая и расширяющая границы жанра, жадно впитывающая всевозможные новейшие веяния, примеряющая общечеловеческое лицо, отважно игнорирующая каинову печать \"жанрового гетто\". Сейчас это воспринимается как одно из самых человечных произведений новейшего времени, как роман пронзительной психологической силы, как филигранное развитие темы любви и ответственности. Не зря вышедшую уже в 1990-е книгу воспоминаний Киз назвал \"Элджернон, Чарли и я\"."
+  },
+
+  {
+    "id": "5",
+    "name": "Mission possible: Happy Life Technology",
+    "author": "Margulan seissembai",
+    "year": 2023,
+    "isCoverSolid": true,
+    "genre": "psychology, self-development",
+    "imgName": "Mission Possible.jpg",
+    "description": "Is it possible to check harmony with algebra? And is it possible to develop a technology for such an elusive state as happiness? The author of the book, Kazakh billionaire, businessman and public figure Margulan Seisembay, answers these questions with a confident “Yes!” Based on his rich life experience, Seisembai developed a methodology that will allow any person to gain control over their lives and achieve ... not success, but happiness - the author calls for separating these two concepts, since the pursuit of them gives different results.\n\nOne of the main ideas is that happy people are always successful, although successful people are not always happy. That is why it is necessary to strive, first of all, for happiness. And it includes a number of elements, each of which the author carefully analyzes. Here is energy management, and a sense of one's own mission, and the correct goal-setting, and providing the factors without which happiness is impossible - all this can be learned.\n\n“As paradoxical as it may sound to you, achieving success is the most inefficient and wrong way to find happiness. I have seen many successful people who were unhappy. But I have not seen a single happy person who would consider himself unsuccessful.\n\nThe book attracts attention with an original, entrepreneurial approach to human psychology. A rigorous analysis of various aspects of happiness is interspersed with aphorisms of famous people, quotations from works of art and folk art, which makes reading \"Mission ...\" even more exciting.\n\n“Happiness is a choice. The choice of how we perceive and evaluate what will happen to us during the day. Happiness is not something that happens to us against our will. Happiness is those moments when we are satisfied with our life. This is our internal assessment of what is happening to us.”"
+  }
+]
