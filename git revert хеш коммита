@@ -1,0 +1,53 @@
+[33mcommit f735a499883642d1ce987735d356a7e475a5d161[m[33m ([m[1;36mHEAD -> [m[1;32mhw45[m[33m, [m[1;31morigin/hw45[m[33m)[m
+Author: админ <bolottashirkulov@gmail.com>
+Date:   Fri Jul 7 19:32:56 2023 +0600
+
+    added class Lesson45Server for hw45
+
+[33mcommit 59860f8891349c02fa2046c427dc692af47c9c4e[m[33m ([m[1;32mmain[m[33m)[m
+Author: админ <bolottashirkulov@gmail.com>
+Date:   Fri Jul 7 19:28:02 2023 +0600
+
+    added class Lesson45Server for hw45
+
+[33mcommit 53a1570aca608cfa4b8b3a8c3601befb508f2438[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: админ <bolottashirkulov@gmail.com>
+Date:   Fri Jul 7 14:05:18 2023 +0600
+
+    change some logic all classes
+
+[33mcommit 4b30b949ef3b645b4135458380175a341d579118[m
+Author: админ <bolottashirkulov@gmail.com>
+Date:   Fri Jul 7 13:27:06 2023 +0600
+
+    change some logic in classes
+
+[33mcommit e65b2ea6356157ddbaf694cc9ced35accf0f50a5[m
+Author: админ <bolottashirkulov@gmail.com>
+Date:   Fri Jul 7 13:26:13 2023 +0600
+
+    added class Lesson44Server with logic for routes /, /books, /employees
+
+[33mcommit 5dc5b1d17e870a77bd593d02e7ddaeaaca94f9b2[m
+Author: админ <bolottashirkulov@gmail.com>
+Date:   Fri Jul 7 13:24:11 2023 +0600
+
+    added classes for book and employees
+
+[33mcommit d707f12caa1514f38df541f957ec312452274e40[m
+Author: админ <bolottashirkulov@gmail.com>
+Date:   Fri Jul 7 13:20:43 2023 +0600
+
+    added package server in src to interaction with the server
+
+[33mcommit ad46e439a6916a617b41c1ebba622339411f1ce4[m
+Author: админ <bolottashirkulov@gmail.com>
+Date:   Fri Jul 7 13:18:57 2023 +0600
+
+    added directory data and in this file created 3 ftlh files for show the info in page and 2 json files and added 5 images
+
+[33mcommit 0ce74654da1e7feaad2eba029a2c9a85a08cd6da[m
+Author: админ <bolottashirkulov@gmail.com>
+Date:   Fri Jul 7 13:16:10 2023 +0600
+
+    git init
