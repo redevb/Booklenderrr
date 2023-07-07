@@ -1,4 +1,4 @@
-package java.server;
+package kg.java.server;
 
 public enum ResponseCodes {
     OK(200),

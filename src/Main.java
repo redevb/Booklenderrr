@@ -1,8 +1,5 @@
-package java;
-
-import kg.attractor.java.lesson44.Lesson44Server;
-
 import java.io.IOException;
+import kg.java.lesson44.Lesson44Server;
 
 public class Main {
     public static void main(String[] args) {

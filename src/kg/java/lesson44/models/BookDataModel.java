@@ -1,8 +1,6 @@
-package java.lesson44.models;
+package kg.java.lesson44.models;
 
-
-import kg.attractor.java.FileService;
-
+import kg.java.lesson44.FileService;
 import java.util.ArrayList;
 import java.util.List;
 

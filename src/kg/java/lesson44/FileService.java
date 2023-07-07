@@ -1,9 +1,9 @@
-package java;
+package kg.java.lesson44;
 
 import com.google.gson.Gson;
 import com.google.gson.GsonBuilder;
-import kg.attractor.java.lesson44.models.Book;
-import kg.attractor.java.lesson44.models.Employee;
+import kg.java.lesson44.models.Book;
+import kg.java.lesson44.models.Employee;
 
 import java.io.IOException;
 import java.nio.file.Files;

@@ -1,22 +1,22 @@
-package java.lesson44;
+package kg.java.lesson44;
 
 import com.sun.net.httpserver.HttpExchange;
 import freemarker.template.Configuration;
 import freemarker.template.Template;
 import freemarker.template.TemplateException;
 import freemarker.template.TemplateExceptionHandler;
-import kg.attractor.java.lesson44.models.Book;
-import kg.attractor.java.lesson44.models.BookDataModel;
-import kg.attractor.java.lesson44.models.EmployeesDataModel;
-import kg.attractor.java.server.BasicServer;
-import kg.attractor.java.server.ContentType;
-import kg.attractor.java.server.ResponseCodes;
-import kg.attractor.java.server.Utils;
+import kg.java.server.ContentType;
 
 import java.io.ByteArrayOutputStream;
 import java.io.File;
 import java.io.IOException;
 import java.io.OutputStreamWriter;
+import kg.java.lesson44.models.Book;
+import kg.java.lesson44.models.BookDataModel;
+import kg.java.lesson44.models.EmployeesDataModel;
+import kg.java.server.BasicServer;
+import kg.java.server.ResponseCodes;
+import kg.java.server.Utils;
 import java.util.HashMap;
 import java.util.Map;
 

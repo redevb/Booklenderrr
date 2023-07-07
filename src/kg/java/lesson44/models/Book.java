@@ -1,4 +1,4 @@
-package java.lesson44.models;
+package kg.java.lesson44.models;
 
 public class Book {
     private String id;

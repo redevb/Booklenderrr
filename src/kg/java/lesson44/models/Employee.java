@@ -1,4 +1,4 @@
-package java.lesson44.models;
+package kg.java.lesson44.models;
 
 import java.util.ArrayList;
 import java.util.List;

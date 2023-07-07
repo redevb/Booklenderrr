@@ -1,4 +1,4 @@
-package java.server;
+package kg.java.server;
 
 import com.sun.net.httpserver.HttpExchange;
 
